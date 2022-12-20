@@ -2,4 +2,4 @@ wooram0
 
 wooram-from-main-branch
 
-branch02
+from branch02
